@@ -27,8 +27,7 @@ To help them connect with those who can help them solve their problems.
 
 To solve problems.
 
-#
-#
+
 
 
 # JHS Class Website 
@@ -44,27 +43,9 @@ See it here https://presetshs.com/classof2018/
 
 ## Screenshots
 
-
-<img src="images/home.png"
-    alt="Home screen"
-    style="float: left; margin-right: 10px;"
-    width="200"/
-    > <img src="images/games.png"
-    alt="Games page"
-    style="float: left; margin-right: 10px;"
-    width="200"/
-    > <img src="images/gallery.png"
-    alt="Gallery"
-    style="float: left; margin-right: 10px;"
-    width="200"/
-    > <img src="images/announcement.png"
-    alt="Announcements"
-    style="float: left; margin-right: 10px;"
-    width="200"/
-    > <img src="images/contact_form.png"
-    alt="Permission form to view contacts."
-    style="float: left; margin-right: 10px;"
-    width="200"/
-    >
-
+![home](https://user-images.githubusercontent.com/99098947/155430626-8f1487fd-c8f2-4e41-955a-c1f5a6e946e1.png)
+![announcement](https://user-images.githubusercontent.com/99098947/155430633-ad7992b6-28f4-49d3-9f86-6763c0dcd009.png)
+![contact_form](https://user-images.githubusercontent.com/99098947/155430637-31e94b9a-0a52-4e92-aa19-7bd225fddd00.png)
+![gallery](https://user-images.githubusercontent.com/99098947/155430640-e737e5be-d9c3-4d42-8f4c-41953bc2201a.png)
+![games](https://user-images.githubusercontent.com/99098947/155430645-a82120e3-68d1-4cab-9cc3-4783c6f05283.png)
 
