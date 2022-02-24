@@ -43,7 +43,7 @@ See it here https://presetshs.com/classof2018/
 
 ## Screenshots
 
-![home](https://user-images.githubusercontent.com/99098947/155430626-8f1487fd-c8f2-4e41-955a-c1f5a6e946e1.png)
+![home] <img src="https://user-images.githubusercontent.com/99098947/155430626-8f1487fd-c8f2-4e41-955a-c1f5a6e946e1.png" width="150" height="80">
 ![announcement](https://user-images.githubusercontent.com/99098947/155430633-ad7992b6-28f4-49d3-9f86-6763c0dcd009.png)
 ![contact_form](https://user-images.githubusercontent.com/99098947/155430637-31e94b9a-0a52-4e92-aa19-7bd225fddd00.png)
 ![gallery](https://user-images.githubusercontent.com/99098947/155430640-e737e5be-d9c3-4d42-8f4c-41953bc2201a.png)
