@@ -11,7 +11,7 @@ A sudden turn of events left me on my own in this journey and I turned to Mozill
 
 Fast forward to SHS 1 and I discovered *Develpers In Vogue (</div>)*, a tech group passionate about women in coding and signed up for their Speak Python bootcamp v2. With little knowledge of this language, I barely understood anything, but it opened my mind to a whole new world in programming. 
 
-Combining academic work and coding was near impossible, and lack of use facilitated my forgetting almost everything I have learned. So here I am in my first year in Univeristy, picking up the pieces and continuing this journey where I left off; in Python, trying to make the most of every opportunity to learn more, to see what I could possibly use this skill for.
+Combining academic work and coding was near impossible, and lack of use facilitated my forgetting almost everything I have learned. And so in my first year in univeristy, I had to begin picking up the pieces and continuing this journey where I left off; in Python, and later C trying to make the most of every opportunity to learn more, to see what I could use this skill for.
 
 ## The End?
 
@@ -19,10 +19,7 @@ The world of programming is limitless, brimming with opportunities.
 
 I have no idea where it will take me, but I do know I want to use it to make a difference in society, in the lives of those who think they don't matter. 
 
-To let their voices be heard.
-
-To help them connect with those who can help them solve their problems. 
-
+To let their voices be heard. To help them connect with those who can help them solve their problems. 
 
 
 To solve problems.
