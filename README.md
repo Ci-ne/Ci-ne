@@ -9,7 +9,7 @@ I decided to build a webiste for my JHS class and this led me even deeper into H
 
 A sudden turn of events left me on my own in this journey and I turned to Mozilla Firefox's developper recommendations to further these skills. Through it, I discovered Codeacadmey and W3 schools. 
 
-Fast forward to SHS 1 and I discovered *Develpers In Vogue (</div>)*, a tech group passionate about women in coding and signed up for their Speak Python bootcamp v2. With little knowledge of this language, I barely understood anything, but it opened my mind to a whole new world in programming. 
+Fast forward to SHS 1 and I discovered *Developers In Vogue (</div>)*, a tech group passionate about women in coding and signed up for their Speak Python bootcamp v2. With little knowledge of this language, I barely understood anything, but it opened my mind to a whole new world in programming. 
 
 Combining academic work and coding was near impossible, and lack of use facilitated my forgetting almost everything I have learned. And so in my first year in univeristy, I had to begin picking up the pieces and continuing this journey where I left off; in Python, and later C trying to make the most of every opportunity to learn more, to see what I could use this skill for.
 
