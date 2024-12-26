@@ -13,6 +13,8 @@ Fast forward to SHS 1 and I discovered *Developers In Vogue (</div>)*, a tech gr
 
 Combining academic work and coding was near impossible, and lack of use facilitated my forgetting almost everything I have learned. And so in my first year in univeristy, I had to begin picking up the pieces and continuing this journey where I left off; in Python, and later C trying to make the most of every opportunity to learn more, to see what I could use this skill for.
 
+Through my engineering courses adn the plethora of extra-curricular activities I engaged myself in, I have come to get a better grasp of Python and C, and see (no pun intended 😅) how they can be used not only to make fancy webpages, but real tangible objects accomplish useful things. Dare I say it has been even more interesting on my initial break into programming. Thus, you'd find a lot of repositories here are related to robotics, electronics, and everything in between, though they are most certainly far fewer than the projects I have actually done. I hope to get them all here someday.
+
 ## The End?
 
 The world of programming is limitless, brimming with opportunities. 
