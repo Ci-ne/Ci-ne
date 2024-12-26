@@ -31,13 +31,13 @@ To solve problems.
 
 # JHS Class Website 
 
-This work remains my greatest programming feat ever. 
+This work remains my greatest front-end programming feat ever. 
 It inspired me to explore the world of HTML and CSS on my own, and explore my love for color and art in a different environment.
 
 Through it I came to know of different classes of objects, tags and features of these two languages.
 Many thanks to my uncle for allowing me to perch on his website ;-)
 
-See it here https://presetshs.com/classof2018/
+See it here https://presetshs.com/classof2018/ (it is no longer available, and I had no knowledge of 'saving on the cloud' at the time, so all I have left to show of it now are the pictures below 🥲).
 
 
 ## Screenshots
